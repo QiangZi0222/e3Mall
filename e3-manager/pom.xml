@@ -26,6 +26,10 @@
 				<configuration>
 					<port>8080</port>
 					<path>/</path>
+					<!-- 远程Tomcat访问URL -->
+					<!-- <url></url>
+					<username></username>
+					<password></password> -->
 				</configuration>
 			</plugin>
 		</plugins>
